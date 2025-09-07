@@ -1,0 +1,5 @@
+{
+  "name": "Hyper-Realistic Scene Blender",
+  "description": "An AI-powered tool to seamlessly blend multiple images into a single, hyper-realistic scene. Upload your images, describe the desired outcome with a simple prompt, and let the AI handle lighting, shadows, and perspective to create stunningly coherent compositions.",
+  "requestFramePermissions": []
+}
